@@ -1,0 +1,5 @@
+[Activity]
+name = KidCountingGame
+bundle_id = org.sugar.kidcounting
+icon = activity-icon
+exec = python3 activity.py
