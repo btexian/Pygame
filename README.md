@@ -25,13 +25,7 @@ pip install pygame
 
 __🔹 Step 3: Run the Game__
 python game.py
-
-__📂 Project Structure__
-kids-counting-game/
-│── images/             
-│── game.py            
-│── README.md          
-│── requirements.txt    
+ 
 
 __🎨 How to Play?__
 1️⃣ Observe the highlighted green box
