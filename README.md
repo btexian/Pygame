@@ -28,10 +28,10 @@ python game.py
 
 __📂 Project Structure__
 kids-counting-game/
-│── images/             # Folder containing fruit images (apple.png, banana.png, orange.png)
-│── game.py             # Main game logic
-│── README.md           # Project documentation
-│── requirements.txt    # Dependencies list (for future setup)
+│── images/             
+│── game.py            
+│── README.md          
+│── requirements.txt    
 
 __🎨 How to Play?__
 1️⃣ Observe the highlighted green box
